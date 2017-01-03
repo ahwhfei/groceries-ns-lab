@@ -4,7 +4,10 @@
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
-    "id": "org.nativescript.groceriesnslab"
+    "id": "org.nativescript.groceriesnslab",
+    "tns-ios": {
+      "version": "2.4.0"
+    }
   },
   "dependencies": {
     "@angular/common": "2.2.1",
